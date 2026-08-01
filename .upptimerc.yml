@@ -1,4 +1,4 @@
-owner: makcdot
+owner: Makc228
 repo: korvus-status
 
 sites:
@@ -13,7 +13,7 @@ status-website:
   name: Статус Корвус
   introTitle: "**Корвус** моніторинг сервісів"
   introMessage: Тут ви можете перевірити стабільність роботи бота, вебсайту та бази даних.
-  logoUrl: https://cdn.discordapp.com/avatars/1380916694863581284/твій_аватар.png
+  logoUrl: https://i.postimg.cc/h45djwy5/a-3a612fb0350c60fe96a7c65cb528e629.gif
   theme: dark
 
 i18n:
