@@ -2,9 +2,9 @@ owner: Makc228
 repo: korvus-status
 
 sites:
-  - name: 🌐 Сайт Корвус
+  - name: Корвус
     url: https://korvusbot.com
-  - name: 🗄️ База Даних (Mongoose)
+  - name: База Даних
     url: https://korvusbot.com/api/health/database
     expectedStatusCodes: [200]
 
