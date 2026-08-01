@@ -14,7 +14,7 @@ status-website:
   introTitle: "**Корвус** моніторинг сервісів"
   introMessage: Тут ви можете перевірити стабільність роботи бота, вебсайту та бази даних.
   logoUrl: https://i.postimg.cc/h45djwy5/a-3a612fb0350c60fe96a7c65cb528e629.gif
-  theme: dracula
+  theme: nord
 
 i18n:
   activeIncidents: Активні інциденти
